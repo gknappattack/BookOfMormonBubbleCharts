@@ -1,0 +1,10 @@
+[
+{"name": "Noun",
+"data": [{"name": "people", "value": 894},{"name": "land", "value": 698},{"name": "God", "value": 437},{"name": "king", "value": 350},{"name": "Lord", "value": 318},{"name": "Nephi", "value": 278},{"name": "words", "value": 261},{"name": "city", "value": 191},{"name": "brethren", "value": 188},{"name": "Moroni", "value": 182},{"name": "men", "value": 164},{"name": "Ammon", "value": 160},{"name": "power", "value": 130}]},
+{"name": "Verb",
+"data": [{"name": "behold", "value": 1247},{"name": "it came to pass", "value": 830},{"name": "come again", "value": 397}]},
+{"name": "Adjective",
+"data": [{"name": "man", "value": 171}]},
+{"name": "Adverb",
+"data": [{"name": "Alma", "value": 244}]}
+]
