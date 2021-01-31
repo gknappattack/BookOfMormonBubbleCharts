@@ -40,6 +40,7 @@
 			"name": "power",
 			"value": 130
 		}]
+		"color": '#13FF00'
 	},
 	{
 		"name": "Verb",
@@ -53,6 +54,7 @@
 			"name": "come again",
 			"value": 397
 		}]
+		"color": '#FF0000'
 	},
 	{
 		"name": "Adjective",
@@ -60,6 +62,7 @@
 			"name": "man",
 			"value": 171
 		}]
+		"color": '00F8FF'
 	},
 	{
 		"name": "Adverb",
@@ -67,5 +70,6 @@
 			"name": "Alma",
 			"value": 244
 		}]
+		"color": 'FF00C7'
 	}
 ]
