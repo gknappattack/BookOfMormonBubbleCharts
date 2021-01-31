@@ -1,12 +1,72 @@
-[
-{"name": "Preposition",
-"data": [{"name": "earth", "value": 126},{"name": "time", "value": 126},{"name": "judges", "value": 125},{"name": "reign", "value": 122},{"name": "word", "value": 122},{"name": "Jesus", "value": 121},{"name": "armies", "value": 114},{"name": "children", "value": 108},{"name": "hearts", "value": 108},{"name": "wilderness", "value": 107},{"name": "Zarahemla", "value": 98},{"name": "know", "value": 89},{"name": "manner", "value": 89}]},
-{"name": "Conjunction",
-"data": [{"name": "Christ", "value": 140}]},
-{"name": "Article",
-"data": [{"name": "Nephites", "value": 322}]},
-{"name": "Pronoun",
-"data": [{"name": "Lamanites", "value": 544}]},
-{"name": "Auxiliary Verb",
-"data": [{"name": "church", "value": 147}]}
+[{
+		"name": "Preposition",
+		"data": [{
+			"name": "earth",
+			"value": 126
+		}, {
+			"name": "time",
+			"value": 126
+		}, {
+			"name": "judges",
+			"value": 125
+		}, {
+			"name": "reign",
+			"value": 122
+		}, {
+			"name": "word",
+			"value": 122
+		}, {
+			"name": "Jesus",
+			"value": 121
+		}, {
+			"name": "armies",
+			"value": 114
+		}, {
+			"name": "children",
+			"value": 108
+		}, {
+			"name": "hearts",
+			"value": 108
+		}, {
+			"name": "wilderness",
+			"value": 107
+		}, {
+			"name": "Zarahemla",
+			"value": 98
+		}, {
+			"name": "know",
+			"value": 89
+		}, {
+			"name": "manner",
+			"value": 89
+		}]
+	},
+	{
+		"name": "Conjunction",
+		"data": [{
+			"name": "Christ",
+			"value": 140
+		}]
+	},
+	{
+		"name": "Article",
+		"data": [{
+			"name": "Nephites",
+			"value": 322
+		}]
+	},
+	{
+		"name": "Pronoun",
+		"data": [{
+			"name": "Lamanites",
+			"value": 544
+		}]
+	},
+	{
+		"name": "Auxiliary Verb",
+		"data": [{
+			"name": "church",
+			"value": 147
+		}]
+	}
 ]
