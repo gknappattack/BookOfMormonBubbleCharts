@@ -1,1 +1,40 @@
-[{"name": "Preposition","data": [{"name": "on", "value": 108},{"name": "through", "value": 108}]},{"name": "Conjunction","data": [{"name": "and", "value": 160},{"name": "but", "value": 147}]},{"name": "Article","data": [{"name": "the", "value": 191},{"name": "a", "value": 188}]},{"name": "Pronoun","data": [{"name": "I", "value": 1247},{"name": "he", "value": 182}]},{"name": "Auxiliary Verb","data": []}]
+[{
+	"name": "Preposition",
+	"data": [{
+		"name": "on",
+		"value": 108
+	}, {
+		"name": "through",
+		"value": 108
+	}]
+}, {
+	"name": "Conjunction",
+	"data": [{
+		"name": "and",
+		"value": 160
+	}, {
+		"name": "but",
+		"value": 147
+	}]
+}, {
+	"name": "Article",
+	"data": [{
+		"name": "the",
+		"value": 191
+	}, {
+		"name": "a",
+		"value": 188
+	}]
+}, {
+	"name": "Pronoun",
+	"data": [{
+		"name": "I",
+		"value": 1247
+	}, {
+		"name": "he",
+		"value": 182
+	}]
+}, {
+	"name": "Auxiliary Verb",
+	"data": []
+}]
