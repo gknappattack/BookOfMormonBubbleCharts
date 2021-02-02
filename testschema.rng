@@ -484,6 +484,7 @@
             <element name="transac">
                 <ref name="IDLangTgtDtyp"/>
                 <attribute name="type"/>
+                <data type="string"/>
             </element>
         </define>
         <define name="transacGrp">
