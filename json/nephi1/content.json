@@ -1,7 +1,6 @@
 [
   {
     "name": "Noun",
-    color: '#0066FF',
     "data": [
       {
         "name": "people",
@@ -59,7 +58,6 @@
   },
   {
     "name": "Verb",
-    color: '#fcba03',
     "data": [
       {
         "name": "behold",
@@ -77,7 +75,6 @@
   },
   {
     "name": "Adjective",
-    color: '#0318fc',
     "data": [
       {
         "name": "man",
@@ -87,7 +84,6 @@
   },
   {
     "name": "Adverb",
-    color: '#fc0303',
     "data": [
       {
         "name": "Alma",
