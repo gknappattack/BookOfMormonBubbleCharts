@@ -1,6 +1,6 @@
 Starting ID,Outgoing ID,Line Type, Connection
-16,14,0,Father and Son
-16,15,0,Mother and Son
+14,16,0,Father and Son
+15,16,0,Mother and Son
 16,22,0,Older Brother
 16,30,0,Coming of Christ
 16,68,0,Distant Ancestor
