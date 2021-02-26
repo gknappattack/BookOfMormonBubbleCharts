@@ -1,1 +1,5 @@
 Starting ID,Outgoing ID,Line Type, Connection
+34,38,0,Test Connection
+36,38,0,Test Connection
+38,39,0,Test Connection
+38,48,0,Test Connection
